@@ -1,11 +1,34 @@
 # Stage 1
 ## Task 2
 1. **Visual Studio Code vs PyCharm:**\
-**Reference: https://content.techgig.com/pycharm-vs-visual-studio-code-which-one-to-choose-for-python-development/articleshow/75388084.cms**
- When compared to PyCharm, Microsoft's Visual Studio Code is considerably quicker. When compared to PyCharm, it is incredibly light. Visual Studio Code is the clear victor when it comes to a modular approach to wiring code. Microsoft's integrated development environment (IDE) contains a large number of extensions, add-ons, and other libraries.
+ When compared to PyCharm, Microsoft's Visual Studio Code is considerably quicker. When compared to PyCharm, it is incredibly light. Visual Studio Code is the clear victor when it comes to a modular approach to wiring code. Microsoft's integrated development environment (IDE) contains a large number of extensions, add-ons, and other libraries.\
+ ### Common Features
+ Both editors provide a number of Python development capabilities that any developer should have in their toolset, including:
+
+- Code completion that is intelligent
+- Regex support is included in the full text search.
+- Highlighting syntax and bracket matching
+- Integration with Git
+- Support for autopep8 and code formatting
+- Using pylint for code linting
+- Tools for debugging and code inspection
+- Code snippets created by the user
+
+### Performance
+PyCharm consumes about 1 GB of RAM on my system even while it is idle, whereas VS Code seldom exceeds 300 MB. Only when I open many projects with dozens of files does VS code use a lot of RAM.
+
+VS Code easily outperforms PyCharm in terms of performance. Because VS Code doesn't pretend to become an IDE and instead focuses on being a text editor, it has a considerably smaller memory footprint, startup speed, and general responsiveness than PyCharm.
+
+### Price
+
+PyCharm is about $200 per year. There is a community version of PyCharm that is free to use commercially, but it lacks many of the features that make PyCharm appealing (such as remote debugging, sophisticated Django support, and support for JavaScript and CSS).
+
+VS Code, on the other hand, is a free and open source project (Free and Open-Source Software). This is self-evident. A price of $0.01 is hard to beat.
+
+So I think everyone sees the VS Code is much batter than PyCharm. 
+
 -----
 **Linux vs Windows:** 
-**Reference: https://www.freecodecamp.org/news/which-operating-system-would-be-better-for-web-development/**
 - **Windows**\
 With an estimated 87.89 percent of PCs running some variation of Windows, it is clearly the most popular operating system in terms of market share.\
 Some individuals have difficulty using Windows for more complex development tasks, such as getting Docker containers to work, having issues with Node and npm, and so on. One reason for this is because Windows' default command line application is PowerShell, which is very different from Bash, which is used on most Linux systems.\
@@ -18,7 +41,6 @@ Developers, on the other hand, love Linux since it's free and allows them to rap
 Not all gadgets, however, work well with Linux. The Linux kernel, distributions (operating systems that use the Linux kernel, such as Ubuntu, Linux Mint, Red Hat, and others), and application developers are all mostly open source initiatives. This implies they're primarily funded by volunteers who devote their spare time to these initiatives.
 -----
 **Github vs Gitlab**\
-**Reference: https://www.upgrad.com/blog/github-vs-gitlab-difference-between-github-and-gitlab/**
 Making changes to existing source code and, in certain cases, producing new source code are all part of the software development life cycle (SDLC). Because most developers were working on various areas of the code at the same time, the changes in the code might occasionally clash. This will very certainly bring unwelcome problems into the software. While these may not have an immediate impact on software development, they may cause serious mistakes in the future, making it difficult to pinpoint the issue zone.\
 The platform each ideology offers is the main distinction between GitHub and GitLab. GitLab is more focused on delivering a features-based system with a centralized, integrated platform for web developers, whereas GitHub offers superior availability and is more focused on infrastructure performance.\
 
@@ -67,3 +89,9 @@ The GitHub Developer community has grown to nearly 27 million members.\
 Over 80 million projects are hosted on GitHub. It's the world's largest code repository for developing, sharing, and contributing to open source projects.\
 It has approximately 300 programming languages represented in its projects.\
 It's mostly utilized in open-source projects.
+
+VS Code vs PyCharm : **Reference: https://content.techgig.com/pycharm-vs-visual-studio-code-which-one-to-choose-for-python-development/articleshow/75388084.cms**
+
+Windows vs Linux : **Reference: https://www.freecodecamp.org/news/which-operating-system-would-be-better-for-web-development/**
+
+GitHub vs GitLab : **Reference: https://www.upgrad.com/blog/github-vs-gitlab-difference-between-github-and-gitlab/**

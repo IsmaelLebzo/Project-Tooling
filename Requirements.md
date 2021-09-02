@@ -15,28 +15,28 @@ The Host-An-Event page its a page where the user can host an event in the store 
  - So I use the storage to save the order that the user is putting so I can show it for him in the cart page like to get the total for the order.
 
  The Home page:\
- ![Home page](img\Screenshot11.png)
+ ![Home page](img\Screenshot11.JPG)
  In this page it talks about the Coffee shop and info about it and what is the purpose of it.
 
  The Menu page:\
- ![Menu page](img\Screenshot12.png)
+ ![Menu page](img\Screenshot12.JPG)
  In this page it shows the menu of the Coffee shop where the user can order his own Coffee.
 
  The About-us page:\
- ![About-us page](img\Screenshot13.png)
+ ![About-us page](img\Screenshot13.JPG)
 In this page it talks about the Coffee shop where u can contact with the shop and the social media for the shop.
 
 The Cart page:\
-![Cart page](img\Screenshot14.png)
+![Cart page](img\Screenshot14.JPG)
 In this page the user can proceed to buy his order and to check the total and give the info like name phone num...etc.
 
 The Host-An-Event page:\
-![host an event page](img\Screenshot15.png)
+![host an event page](img\Screenshot15.JPG)
 In this page the user can host an event in the shop, he can choose which day he want what time it starts and when it ends, and how many people is invited to it.
 
 ----
 
- - ![Activity Diagram](img\MicrosoftTeams-image.png)
+ - ![Activity Diagram](img\MicrosoftTeams-image.jpg)
 ----
  - We as a team we used : Agile	Coding and implementation technique.
  ----

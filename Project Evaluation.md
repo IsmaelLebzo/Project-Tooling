@@ -51,4 +51,4 @@ The stengths of our website:
 
 The weaknesses of our website:
 1. It doesn't have a cloud storage to keep the data of the user (not yet).
-2. It's still not fully produced so it cant be like if u checkout its not going to make an order it just gonna clear the cart and give an aler of success.
+2. It's still not fully produced so it cant be like if u checkout its not going to make an order it just gonna clear the cart and give an alert of success.
