@@ -4,31 +4,31 @@
 ### Requirement 1
 A page where the user can check the shop and info about it.\
 Here is a link for this Requirement (https://coffee-land.github.io/Coffee-Land/Home.html).\
-![Home page](img\homePage.JPG)
+![Home page](img\homepage.jpg)
 in this page the user can read about the shop and see what exactly the purpose of it.
 
 ### Requirement 2
 A page where the user can see the product and add as much h want to the cart.\
 Here is a link for this Requirement (https://coffee-land.github.io/Coffee-Land/Menu.html) \
-![menu page](img\menuPage.JPG)
+![menu page](img\menupage.jpg)
 in this page the user can order the product he wants and the quantity of it to be added to the cart.
 
 ### Requirement 3
 A page where the user can make an event in the shop.\
 Here is a link for this Requirement (https://coffee-land.github.io/Coffee-Land/Hosting-An-Event.html) \
-![menu page](img\hostEvent.JPG)
+![menu page](img\hostevent.jpg)
 in this page the user can host an event in the shop where he can add what date the event will be when will it start and when its going to finish and how many people is invited.
 
 ### Requirement 4 
 A page where the user can see what he added to the cart and checkout with adding his info.\
 Here is a link for this Requirement (https://coffee-land.github.io/Coffee-Land/Cart.Html).\
-![Home page](img\cart.JPG)
+![Home page](img\cart.jpg)
 in this page the user can see what exactly he/she ordered and the price of it with and without the delivery.
 
 ### Requirement 5
 A page where the user can see the devolpers of the website and info about them.\
 Here is a link for this Requirement (https://coffee-land.github.io/Coffee-Land/About-Us.html).\
-![Home page](img\Aboutus.JPG)
+![Home page](img\aboutus.jpg)
 in this page the user can read about the devolpers.
 
 ----
